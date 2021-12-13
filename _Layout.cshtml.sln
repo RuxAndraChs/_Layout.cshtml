@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiselenco_Ruxandra_Lab5", "Chiselenco_Ruxandra_Lab5.csproj", "{1BE55755-CA3A-4852-A373-F131D2704A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE55755-CA3A-4852-A373-F131D2704A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE55755-CA3A-4852-A373-F131D2704A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE55755-CA3A-4852-A373-F131D2704A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE55755-CA3A-4852-A373-F131D2704A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588F1C99-C987-4969-9934-71446A2AC1D5}
+	EndGlobalSection
+EndGlobal
